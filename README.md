@@ -21,9 +21,13 @@ The push notification will tell you when you are around the place(500m). It will
 ![Others image](https://i.ibb.co/Yy7KxKs/device-2020-01-20-153750.png)
 ![Others image](https://i.ibb.co/w69xgqr/device-2020-01-20-153805.png)
 
-Team :
-- @Henry6612700
-- @ceteee
+## Team :
+| <a href="https://github.com/Henry6612700" target="_blank">**Henry**</a> | <a href="https://github.com/ceteee" target="_blank">**Cete**</a> |
+| :---: |:---:|
+| [![Henry](https://avatars3.githubusercontent.com/u/34593843?s=200&v=4)](https://github.com/Henry6612700)    | [![Cete](https://avatars2.githubusercontent.com/u/46949140?s=200&v=4)](https://github.com/ceteee) |
+| <a href="https://github.com/Henry6612700" target="_blank">`github.com/Henry6612700`</a> | <a href="https://github.com/ceteee" target="_blank">`github.com/cetee`</a> | 
+
+and others that doesn't have GitHub (Cunda,Sari,Yeni,Muel,Rozi)
 
 
 
