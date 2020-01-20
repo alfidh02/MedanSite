@@ -10,12 +10,8 @@ The push notification will tell you when you are around the place(500m). It will
 ```
 
 ## Some screenshot
-*Splash Screen* :
 ![Image of SplashScreen](https://i.ibb.co/ZHy7VxQ/device-2020-01-20-153358.png)
-*Home* :
 ![Image of HomeFragment](https://i.ibb.co/LxcjFgN/device-2020-01-20-153322.png) 
-
-*Others* :
 ![Others image](https://i.ibb.co/LRG0Q00/device-2020-01-20-153502.png)
 ![Others image](https://i.ibb.co/Srb8z7V/device-2020-01-20-153522.png)
 ![Others image](https://i.ibb.co/dgQx5wz/device-2020-01-20-153531.png)
