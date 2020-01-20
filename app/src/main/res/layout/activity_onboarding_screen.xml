@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".OnboardingScreen">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:id="@+id/dots"
+            android:layout_width="match_parent"
+            android:paddingStart="30dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" />
+
+        <Button
+            android:visibility="invisible"
+            android:id="@+id/btnGetSt"
+            android:layout_width="121dp"
+            android:layout_height="48dp"
+            android:background="@drawable/bg_btn"
+            android:onClick="getStarted"
+            android:layout_centerInParent="true"
+            android:text="GET STARTED"
+            android:textColor="@android:color/white"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

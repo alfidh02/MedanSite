@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgHF"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/medan1"
+        android:tint="@color/transparent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal|center_vertical">
+        <TextView
+            android:id="@+id/txtHF1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WALK + \nEXPLORE"
+            android:fontFamily="@font/robotomedium"
+            android:textColor="@android:color/white"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+        <TextView
+            android:id="@+id/txtHF2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/lorem"
+            android:maxEms="12"
+            android:fontFamily="@font/fontkeren"
+            android:lineSpacingExtra="9dp"
+            android:textColor="@android:color/white"
+            android:textAlignment="center"/>
+    </LinearLayout>
+</FrameLayout>

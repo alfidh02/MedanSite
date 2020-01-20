@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".OnboardingScreen">
+
+    <ImageView
+        android:id="@+id/imgOB"
+        android:layout_width="match_parent"
+        android:scaleType="fitXY"
+        android:layout_height="0dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"
+        android:layout_weight="1"
+        android:src="@drawable/img1" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txtOB1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pertama"
+            android:textSize="23sp"
+            android:layout_gravity="center"
+            android:fontFamily="@font/poppinssb"
+            android:textColor="#6A6A6A"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/txtOB2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem"
+            android:fontFamily="@font/robotoregular"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textSize="12sp"
+            android:textColor="#4C4C4C"
+            android:textAlignment="center"
+            android:maxEms="20" />
+    </LinearLayout>
+
+</LinearLayout>

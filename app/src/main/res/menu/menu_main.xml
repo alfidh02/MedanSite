@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/miHome"
+        android:icon="@drawable/ic_home"
+        android:title="Home">
+    </item>
+
+<!--    Ini untuk berita/tempat-tempat seru di Medan, bukan hanya tempat bersejarah -->
+    <item
+        android:id="@+id/miCompass"
+        android:icon="@drawable/ic_compass"
+        android:title="Discover">
+    </item>
+
+<!--    Ini untuk menunjukkan lokasi user-->
+    <item
+        android:id="@+id/miGlobe"
+        android:icon="@drawable/ic_location"
+        android:title="Map"/>
+
+    <item
+        android:id="@+id/miProfile"
+        android:icon="@drawable/ic_user"
+        android:title="Profile">
+    </item>
+
+</menu>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="imagebackground">#960682FE</color>
+    <color name="imagebackgroundCurrent">#0682FE</color>
+    <color name="colorBg">#E9F2FA</color>
+    <color name="home">#8B5FFF</color>
+    <color name="compass">#C9379D</color>
+    <color name="search">#E6A919</color>
+    <color name="profile">#1194AA</color>
+    <color name="transparent">#66000000</color>
+    <color name="shimmer_bg">#dddddd</color>
+    <color name="colorDirect">#FFB45F</color>
+</resources>

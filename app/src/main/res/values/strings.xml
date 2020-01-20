@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Medan Site</string>
+    <string name="lorem">Find interesting information about the sights and historical places around you</string>
+    <string name="lorem2">Find the best route you need</string>
+    <string name="lorem3">Historical things already waiting for you</string>
+    <string name="hf1">Gunakan aplikasi ini dan gpsmu untuk menjelajahi tempat-tempat bersejarah dan menarik di Medan. \n\nKunjungi halaman profil, lalu klik HISTORIC SITE NEAR ME</string>
+    <string name="hf2">Jika kamu tidak bisa menjelajahi tempat dengan app ini, kamu masih bisa mengakses informasi tentang tempat tersebut</string>
+    <string name="hf3">Temukan informasi menarik tentang tempat-tempat tersebut di aplikasi ini</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

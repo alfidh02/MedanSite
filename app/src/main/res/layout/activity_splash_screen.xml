@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/bgu"
+    tools:context=".SplashScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:layout_marginTop="200dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:fontFamily="@font/poppinssb"
+            android:paddingLeft="10dp"
+            android:paddingTop="13dp"
+            android:paddingRight="10dp"
+            android:text="Welcome!"
+            android:textColor="#DBD0D0"
+            android:textSize="28sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_gravity="end"
+            android:fontFamily="@font/robotoregular"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="13dp"
+            android:text="Nice to see you again"
+            android:textColor="#C49191"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserratsemibold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="10dp"
+            android:text="EXPLORE"
+            android:textColor="#E9AE03"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/montserratsemibold"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="13dp"
+            android:text="You Are not a member? It's ok, just wait and free to Register"
+            android:textColor="#030303"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+
+</LinearLayout>
