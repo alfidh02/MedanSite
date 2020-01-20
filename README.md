@@ -1,7 +1,7 @@
 # :earth_asia: MedanSite :earth_asia:
 An app to make it easier for people to explore interesting and historic places in Medan (beta), with Push Notification.
 
-You have to make your `own firebase project` and add the `auth method + database`. 
+You have to setup your `own firebase project`(add the google-servives.json and etc) then add the `auth method + database`. 
 Your database name is up to you, but don't forget to change it in the app. 
 Also don't forget to add the **Google MAPS API Key** for displaying the maps. You can get it from Google API Console.
 
