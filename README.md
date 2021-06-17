@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <span>![Image of MedanSite](https://i.ibb.co/6Htsn0d/Cover.png)</span>
+    ![Image of MedanSite](https://i.ibb.co/6Htsn0d/Cover.png)
   </a>
   
   <h1 align="center">:earth_asia: MedanSite :earth_asia:</h1>
