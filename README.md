@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    ![Image of MedanSite](https://i.ibb.co/6Htsn0d/Cover.png)
+    <img src="screenshot/Cover_MedanSite.png" alt="MedanSite">
   </a>
   
   <h1 align="center">:earth_asia: MedanSite :earth_asia:</h1>
@@ -9,9 +9,8 @@
   <p align="center">
    An app to make it easier for people to explore interesting and historic places in Medan (beta), with Push Notification.
   </p>
-</p>
 
-
+## Utility
 
 You have to setup your `own firebase project`(add the google-servives.json and etc) then add the `auth method + database`. 
 Your database name is up to you, but don't forget to change it in the app. 
